@@ -1,6 +1,6 @@
 export default function LoginBox() {
   return (
-    <form className="bg-white dark:bg-gray-800 rounded-md shadow-xl py-5 px-8">
+    <form className="bg-gray-200 dark:bg-gray-800 rounded-md shadow-xl py-5 px-8">
         <h1 className="font-bold text-2xl mb-4">Welcome User</h1>
         <p className="text-lg font-normal text-gray-600 mb-3">Please Login</p>
         <div className="flex items-center border-2 mb-5 py-2 px-3 rounded-2xl">
